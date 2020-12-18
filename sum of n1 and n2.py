@@ -1,5 +1,5 @@
 n1=int(input("enter the values of n1"))
-n2=int(input("enter the value of n2"))
+n2=int(input("enter the valueof n2"))
 s=0
 if(n1>n2):
     n1,n2=n2,n1
