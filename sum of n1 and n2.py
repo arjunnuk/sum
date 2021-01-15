@@ -6,4 +6,4 @@ if(n1>n2):
 for i in range(n1,n2):
     s=s+i
 print("sum",s)
-print("arjun uk mca")
+print("arjun uk mca 5th")
